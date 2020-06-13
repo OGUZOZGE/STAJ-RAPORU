@@ -1,1 +1,2 @@
-# STAJ-RAPORU
+# STAJ-RAPORU 
+özge oğuz
