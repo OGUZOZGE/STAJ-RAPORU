@@ -1,2 +1,3 @@
 # STAJ-RAPORU 
 özge oğuz
+ 
